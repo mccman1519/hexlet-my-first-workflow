@@ -4,4 +4,4 @@ jobs:
   say-it:
     runs-on: ubuntu-latest
     steps:
-      - run: make say-hello
+      - run: echo "Hello, world!"
